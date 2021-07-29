@@ -1,0 +1,9 @@
+Prime numbers are more than just numbers that can only be divided by themselves and one.
+They are a mathematical mystery, the secrets of which mathematicians have been trying to 
+uncover ever since Euclid proved that they have no end. One of the most widely used 
+applications of prime numbers in computing is the RSA encryption system. In 1978, Ron 
+Rivest, Adi Shamir and Leonard Adleman combined some simple, known facts about numbers
+to create RSA. The system they developed allows for the secure transmission of information
+such as credit card numbers – online. Multiplying two numbers, even if very large, is perhaps
+tedious but a straightforward task. Finding prime factorisation, on the other hand, is 
+extremely hard, and that is precisely what the RSA system takes advantage of.
